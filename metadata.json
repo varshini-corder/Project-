@@ -1,0 +1,8 @@
+{
+  "name": "VMap",
+  "description": "A smart campus navigation app featuring interactive block details, indoor routing, and AI-powered facility search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
